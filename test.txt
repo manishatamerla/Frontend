@@ -1,0 +1,1 @@
+To run the code right click on the file and select open with browser.
